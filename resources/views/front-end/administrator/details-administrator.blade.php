@@ -91,6 +91,12 @@
                                 <button type="button" class="btn btn-sm btn-icon btn-primary mr-25 p-25"><i class="feather icon-facebook"></i></button>
                                 <button type="button" class="btn btn-sm btn-icon btn-primary mr-25 p-25"><i class="feather icon-twitter"></i></button>
                                 <button type="button" class="btn btn-sm btn-icon btn-primary p-25"><i class="feather icon-instagram"></i></button>
+{{--                                <button type="button" class="btn btn-sm btn-icon btn-primary p-25" href="{{ route('administrator-details', \Illuminate\Support\Facades\Auth::id()) }}">--}}
+{{--                                    <i class="feather icon-edit"></i>--}}
+{{--                                </button>--}}
+                                <a class="btn btn-sm btn-icon btn-primary p-25" href="{{ route('administrator-edit', \Illuminate\Support\Facades\Auth::id()) }}">
+                                    <i class="feather icon-edit"></i>
+                                </a>
                             </div>
                         </div>
                     </div>

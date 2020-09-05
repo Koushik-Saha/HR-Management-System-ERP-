@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f0d4f65-22dd-4a09-b230-18dd26fd6924" name="Default Changelist" comment="" />
+    <list default="true" id="5f0d4f65-22dd-4a09-b230-18dd26fd6924" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/New Text Document.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/front-end/administrator/details-administrator.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/front-end/administrator/details-administrator.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +21,9 @@
         <option value="composer.json" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
@@ -174,7 +181,8 @@
       <option name="presentableId" value="Default" />
       <updated>1599217308449</updated>
       <workItem from="1599217309791" duration="10023000" />
-      <workItem from="1599273076717" duration="11066000" />
+      <workItem from="1599273076717" duration="11928000" />
+      <workItem from="1599310360548" duration="1307000" />
     </task>
     <servers />
   </component>
@@ -190,6 +198,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599283033228" />
+    <state x="778" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599310489056">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="778" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1599310489056" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1599286826987">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
