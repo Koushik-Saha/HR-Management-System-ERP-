@@ -1,0 +1,67 @@
+{"menu": [
+  {"url":"/", "name":"Dashboard", "slug":"dashboard", "badgeClass": "badge badge-warning badge-pill float-right mr-2", "icon":"feather icon-home"},
+  {"url":"","navheader":"Projects","icon":""},
+  {"url":"", "name":"Project", "icon":"feather icon-layers",
+    "submenu": [
+      {"url":"/project/add-project", "name":"Add Project", "icon":"feather icon-plus-circle", "i18n":"nav.add_project"},
+      {"url":"/project/active-project-list" , "name":"Active Projects", "icon":"feather icon-list", "i18n":"nav.active_projects"},
+      {"url":"/project/hold-project-list", "name":"Hold Projects", "icon":"feather icon-list", "i18n":"nav.hold_projects"},
+      {"url":"/project/completed-project-list", "name":"Completed Projects", "icon":"feather icon-list", "i18n":"nav.completed_projects"},
+      {"url":"/project/cancelled-project-list", "name":"Cancelled Projects", "icon":"feather icon-list", "i18n":"nav.cancelled_projects"},
+      {"url":"/project/all-project-list", "name":"All Projects List", "icon":"feather icon-list", "i18n":"nav.all_projects_list"}
+    ]
+  },
+  {"url":"","navheader":"Clients","icon":""},
+  {"url":"", "name":"Client", "icon":"feather icon-aperture",
+    "submenu": [
+      {"url":"/client/add-client", "name":"Add Client", "icon":"feather icon-plus-circle", "i18n":"nav.add_client"},
+      {"url":"/client/client-list", "name":"Client Lists", "icon":"feather icon-list", "i18n":"nav.client_list"}
+    ]
+  },
+  {"url":"","navheader":"Vendors","icon":""},
+  {"url":"", "name":"Vendor", "icon":"feather icon-align-justify",
+    "submenu": [
+      {"url":"/vendor/add-vendor", "name":"Add Vendor", "icon":"feather icon-plus-circle", "i18n":"nav.add_vendor"},
+      {"url":"/vendor/vendor-list", "name":"Vendor Lists", "icon":"feather icon-list", "i18n":"nav.vendor_list"}
+    ]
+  },
+  {"url":"","navheader":"Administrator","icon":""},
+  {"url":"", "name":"Administrator", "icon":"feather icon-book",
+    "submenu": [
+      {"url":"/administrator/add-administrator", "name":"Add Administrator", "icon":"feather icon-plus-circle", "i18n":"nav.add_administrator"},
+      {"url":"/administrator/administrator-list", "name":"Administrator Lists", "icon":"feather icon-list", "i18n":"nav.administrator_list"}
+    ]
+  },
+  {"url":"","navheader":"WorkingShift","icon":""},
+  {"url":"", "name":"WorkingShift", "icon":"feather icon-crosshair",
+    "submenu": [
+      {"url":"/working-shift/add-working-shift", "name":"Add WorkingShift", "icon":"feather icon-plus-circle", "i18n":"nav.add_working_shift"}
+    ]
+  },
+  {"url":"","navheader":"ManPower","icon":""},
+  {"url":"", "name":"ManPower", "icon":"feather icon-airplay",
+    "submenu": [
+      {"url":"/manpower/add-manpower", "name":"Add ManPower", "icon":"feather icon-plus-circle", "i18n":"nav.add_manpower"},
+      {"url":"/manpower/add-designation", "name":"Add Designation", "icon":"feather icon-plus-circle", "i18n":"nav.add_designation"},
+      {"url":"/manpower/staff-list", "name":"Add Staff List", "icon":"feather icon-list", "i18n":"nav.staff_list"},
+      {"url":"/manpower/attendance/report", "name":"Attendance Report", "icon":"feather icon-anchor", "i18n":"nav.attendance_report"}
+    ]
+  },
+  {"url":"","navheader":"Category","icon":""},
+  {"url":"", "name":"Category", "icon":"feather icon-award",
+    "submenu": [
+      {"url":"/category/index", "name":"Category", "icon":"feather icon-plus-circle", "i18n":"nav.category"}
+    ]
+  },
+  {"url":"","navheader":"Accounts","icon":""},
+  {"url":"", "name":"Accounts", "icon":"feather icon-airplay",
+    "submenu": [
+      {"url":"/accounts/index", "name":"Accounts", "icon":"feather icon-plus-circle", "i18n":"nav_accounts"},
+      {"url":"/accounts/bank-details/cash", "name":"Cash Transition History", "icon":"feather icon-list", "i18n":"nav.cash_transition_history"},
+      {"url":"/loans", "name":"Loans", "icon":"feather icon-plus-circle", "i18n":"nav.loans"},
+      {"url":"/accounts/income", "name":"Income Report", "icon":"feather icon-list", "i18n":"nav.income_report"},
+      {"url":"/accounts/expense", "name":"Expense Report", "icon":"feather icon-list", "i18n":"nav.expense_report"}
+    ]
+  }
+]}
+
