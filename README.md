@@ -20,4 +20,4 @@ email : ```admin@gmail.com```
 password : ```12345678```
 
 
-see the seeder file for user data 
+See the seeder file for user data. i use advance work and add project for each employee and make 4 kind of employee Back-end, Front-end, Design, and Marketing. 
